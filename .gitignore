@@ -13,6 +13,8 @@ wheels/
 # jupyter checkpoints
 .ipynb_checkpoints/
 
+output.ipynb
+
 # macOS files
 .DS_Store
 
